@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\WPFhello\\WPFhello.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\StudentInfoSystem\\StudentInfoSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\StudentInfoSystem\\StudentInfoSystem.csproj",
+        "projectName": "StudentInfoSystem",
+        "projectPath": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\StudentInfoSystem\\StudentInfoSystem.csproj",
+        "packagesPath": "C:\\Users\\Emil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\StudentInfoSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\UserLogin\\UserLogin.csproj": {
+                "projectPath": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\UserLogin\\UserLogin.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\UserLogin\\UserLogin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\UserLogin\\UserLogin.csproj",
+        "projectName": "UserLogin",
+        "projectPath": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\UserLogin\\UserLogin.csproj",
+        "packagesPath": "C:\\Users\\Emil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\UserLogin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\WPFhello\\WPFhello.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\WPFhello\\WPFhello.csproj",
+        "projectName": "WPFhello",
+        "projectPath": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\WPFhello\\WPFhello.csproj",
+        "packagesPath": "C:\\Users\\Emil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\WPFhello\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\StudentInfoSystem\\StudentInfoSystem.csproj": {
+                "projectPath": "C:\\Users\\Emil\\Downloads\\PS_30_Emil\\PS_30_Emil\\StudentInfoSystem\\StudentInfoSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
